@@ -1,0 +1,5 @@
+C:\Users\ivanlobanov\source\repos\Learning\arm64\Debug\Learning.vcxproj.AssemblyReference.cache
+C:\Users\ivanlobanov\source\repos\Learning\arm64\Debug\Learning.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ivanlobanov\source\repos\Learning\arm64\Debug\Learning.MyForm.resources
+C:\Users\ivanlobanov\source\repos\Learning\arm64\Debug\Learning.vcxproj.GenerateResource.cache
+C:\Users\ivanlobanov\source\repos\Learning\arm64\Debug\Learning.exe

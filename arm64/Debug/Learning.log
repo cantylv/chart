@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\ivanlobanov\source\repos\Learning\MyForm.h(280,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ivanlobanov\source\repos\Learning\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Learning.vcxproj -> C:\Users\ivanlobanov\source\repos\Learning\arm64\Debug\Learning.exe
